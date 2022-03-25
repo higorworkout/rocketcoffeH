@@ -1,0 +1,99 @@
+/* div {
+    display: inline-block 
+}
+*/
+    
+body {
+    background-color: #000;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+  }
+
+  @font-face {
+      font-family: "Manrope Especial";
+      src: url(../../../../Downloads/static/Manrope-Bold.ttf)
+  }
+
+  @font-face {
+      font-family: "Manrope Especial";
+      src: url(../../../../Downloads/static/Manrope-Medium.ttf);
+  }
+      
+  @font-face {
+      font-family: "Manrope Especial";
+      src:url(../../../../Downloads/static/Manrope-ExtraBold.ttf)
+  }
+
+
+  #menu {
+      margin: 0;
+      color: #FFF;
+  }
+
+  #menu ul{
+       margin: 0;
+       list-style: none;
+       text-align: center;
+       font-family: "Manrope Especial";
+
+  }
+
+  #menu ul li {
+        display: inline;
+
+  }
+
+  #menu ul li a {
+        padding: 2px 10px;
+        display: inline-block;
+        color: #FFF;
+        text-decoration: none;
+  }
+
+
+
+
+
+  ul {
+      color: #FFF;
+  }
+
+  h1 {
+      font-family: 'Man';
+      color: #FFF;
+      font-size: 80px;
+      text-align: center;
+      font-family: "Manrope Especial"
+     
+  }
+
+  h2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: #8257e5;
+      text-align: center;
+      font-size: 80px;
+      font-family: "Manrope Especial";    
+  }
+ 
+
+.img1 {
+position:absolute;
+width: 802.31px;
+height: 508.72px;
+left: 600px;
+top: 500px;
+}
+
+.img2 {
+position: absolute;
+bottom: 0%;
+
+}
+
+.img3 {
+position: absolute;
+top: 0%;
+right: 0%;
+}
+
